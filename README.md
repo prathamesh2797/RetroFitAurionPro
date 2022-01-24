@@ -1,9 +1,5 @@
 # RetroFitAurionPro
 
-![Splash Screen](https://user-images.githubusercontent.com/84138868/150868681-c52c82ce-6ede-4714-96c7-2874007d8ee7.jpg)
-![MainActivity Recycler View](https://user-images.githubusercontent.com/84138868/150868683-dd2edcf9-0d1c-4767-8e90-8c92d1bd24ba.jpg)
-![Details 1](https://user-images.githubusercontent.com/84138868/150868677-0bba951e-75f2-4a9a-b988-d0939a5b5ae8.jpg)
-
 An app that fetches data from REST API and displays in a Recycler View. This App requires Internet Connection and no inputs for working.
 
 ## Summary
